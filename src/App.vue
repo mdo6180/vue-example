@@ -1,5 +1,5 @@
 <template>
-    <div class="app">
+    <div class="text-3xl text-pink-500 font-bold">
         hello
     </div>
 </template>
